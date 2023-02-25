@@ -1,3 +1,6 @@
+#There's no version Management
+  * This results in that users can't revert to older versions because the new version isn't tested and doesn't work
+
 # HyperBian
 Is a ready to use image for your Raspberry Pi. Based on the original Raspberry Pi Foundation image "Raspberry Pi OS Lite". Hyperion is already pre installed. So simply
 1. Download
